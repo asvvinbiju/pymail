@@ -12,11 +12,11 @@ print("**WELCOME TO PYMAIL**")
 print("==Send an email==")
 print("-----------------")
 
-fromaddr = 'aswinnbijuu@gmail.com'
+fromaddr = 'your@gmail.com'
 message = input("Please enter your message below\n>")
 toaddr = input("To:")
 subject = input("Enter your subject:")
-password = 'melv ytkf rbmw btst'
+password = 'YourGoogleAccountAppPassword'
 
 multi_ = MIMEMultipart()
 
